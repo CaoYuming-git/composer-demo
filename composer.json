@@ -1,0 +1,11 @@
+{
+    "name": "caoyuming-git/composer-demo",
+    "description": "测试",
+    "type": "project",
+    "authors": [
+        {
+            "name": "caoyuming"
+        }
+    ],
+    "require": {}
+}
